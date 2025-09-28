@@ -1,0 +1,584 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a42772e2-b632-4444-a8ab-54d2124cffc5")
+	(paper "A4")
+	(title_block
+		(title "Karabas Esplay")
+		(date "2025-09-28")
+		(rev "A")
+		(company "Andy Karpov production")
+	)
+	(lib_symbols)
+	(rectangle
+		(start 153.416 33.274)
+		(end 187.706 58.674)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0e943788-8783-4a10-b091-ced05e4975c8)
+	)
+	(rectangle
+		(start 31.496 127.254)
+		(end 58.166 146.304)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 10203dc9-092f-435b-b4fe-5aa203ffe8e2)
+	)
+	(rectangle
+		(start 197.866 106.934)
+		(end 229.616 133.604)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 179702f1-d01f-4fdc-9d7a-179821ec1e57)
+	)
+	(rectangle
+		(start 239.776 106.934)
+		(end 267.716 133.604)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1fea5e26-59e1-4123-8afd-29dc6f3f1ec9)
+	)
+	(rectangle
+		(start 111.506 68.834)
+		(end 187.706 145.034)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 20b0de1e-806d-446a-95c7-847259d9a1c6)
+	)
+	(rectangle
+		(start 65.786 70.104)
+		(end 98.806 92.964)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 391e5bde-230b-44d9-80cf-9f1c6b317766)
+	)
+	(rectangle
+		(start 31.496 101.854)
+		(end 58.166 120.904)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4a6f0157-bd8f-4601-926c-a5e3ee1cddd7)
+	)
+	(rectangle
+		(start 31.496 70.104)
+		(end 58.166 92.964)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8f250a78-51e6-4802-8cfb-11895e403c0f)
+	)
+	(rectangle
+		(start 239.776 68.834)
+		(end 267.716 95.504)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 9dbb3a1d-103e-4950-b6b5-567b049a93dd)
+	)
+	(rectangle
+		(start 65.786 127.254)
+		(end 100.076 145.034)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid aaba6690-56bf-48f9-8c4f-1652f47f870f)
+	)
+	(rectangle
+		(start 197.866 68.834)
+		(end 229.616 96.774)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ce417e30-0cd0-44f6-88ea-83bba8b234a7)
+	)
+	(rectangle
+		(start 65.786 101.854)
+		(end 98.806 119.634)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid eecf7c07-19c5-4a5e-a591-02b5966375c2)
+	)
+	(rectangle
+		(start 112.141 33.274)
+		(end 144.526 58.674)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f5eeb8db-0acc-4df3-ace5-617b575ca80c)
+	)
+	(text "Block Diagram"
+		(exclude_from_sim no)
+		(at 32.512 23.114 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 1)
+				(bold yes)
+			)
+		)
+		(uuid "1146e99d-a432-451a-9b6c-9ef10aa67441")
+	)
+	(text "PCF8574\nI2C port extender"
+		(exclude_from_sim no)
+		(at 82.042 81.788 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "432d64e7-f8f9-444f-9b60-6e2882c1ff5e")
+	)
+	(text "Audio\nJack"
+		(exclude_from_sim no)
+		(at 253.746 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "45a79fb7-1f9c-48a1-ac39-798fedca6ea5")
+	)
+	(text "uSD"
+		(exclude_from_sim no)
+		(at 170.434 45.974 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4d8fe97e-22e7-49c7-88b8-37b1c5385e31")
+	)
+	(text "Battery"
+		(exclude_from_sim no)
+		(at 44.958 136.906 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "51af385c-b9f2-458a-80a9-67c52a0f5f7c")
+	)
+	(text "LTC4054\nCharger"
+		(exclude_from_sim no)
+		(at 82.804 136.144 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "627bfa56-ad3a-4fec-8f94-a4e306ea14fd")
+	)
+	(text "UDA1334\nI2S DAC"
+		(exclude_from_sim no)
+		(at 213.614 83.566 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6a8d81de-6859-45f4-b1cf-81ba523e3f36")
+	)
+	(text "CH340\nUSB UART"
+		(exclude_from_sim no)
+		(at 82.55 111.252 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e6a32d4-df1b-4e51-9e17-66f4d5de837c")
+	)
+	(text "Speaker"
+		(exclude_from_sim no)
+		(at 253.492 120.142 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9416ce38-d055-4f95-b7c9-cb5093b69422")
+	)
+	(text "ILI9341\n3.2\" TFT display"
+		(exclude_from_sim no)
+		(at 127.762 46.482 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9b22ec48-d91e-451e-83ff-79ca0592aa72")
+	)
+	(text "Buttons"
+		(exclude_from_sim no)
+		(at 44.45 81.788 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a0f6bcc8-1a0b-4c8e-94c8-2fff1522a217")
+	)
+	(text "ESP32-WROVER-1"
+		(exclude_from_sim no)
+		(at 149.86 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a7e47ea0-659d-4dba-9afd-135299924cee")
+	)
+	(text "PAM8403\nDigital AMP"
+		(exclude_from_sim no)
+		(at 213.614 120.396 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ac673c4a-f58b-402f-ad61-f4653e204d4f")
+	)
+	(text "USB-C"
+		(exclude_from_sim no)
+		(at 44.958 111.506 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e6afc816-94a0-482e-860c-26c333a67d54")
+	)
+	(polyline
+		(pts
+			(xy 98.806 110.744) (xy 111.506 110.744)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13fac745-c156-4b14-8a98-94ac8c1d5dcc")
+	)
+	(polyline
+		(pts
+			(xy 213.106 103.124) (xy 255.016 103.124)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16c357cc-46d6-4830-89c5-8d13de44c5b1")
+	)
+	(polyline
+		(pts
+			(xy 58.166 81.534) (xy 65.786 81.534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f704d16-015c-4fd5-bb92-835ae2c57993")
+	)
+	(polyline
+		(pts
+			(xy 98.806 81.534) (xy 111.506 81.534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36f947b2-8477-4b95-bc4f-a96ad6acff60")
+	)
+	(polyline
+		(pts
+			(xy 58.166 136.144) (xy 65.786 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3eb5bd9c-f016-4537-a6d1-d8822d2f6e2c")
+	)
+	(polyline
+		(pts
+			(xy 255.016 95.504) (xy 255.016 103.124)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4708cf90-319c-4820-b1e6-5b46bd865023")
+	)
+	(polyline
+		(pts
+			(xy 58.166 110.744) (xy 65.786 110.744)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56f9b586-edde-4472-80a3-bb645b9354b0")
+	)
+	(polyline
+		(pts
+			(xy 128.016 58.674) (xy 128.016 68.834)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61a3b599-09bc-4e98-ad60-9b48a6ca9bb5")
+	)
+	(polyline
+		(pts
+			(xy 187.706 82.804) (xy 197.866 82.804)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c980505-20fd-4912-a377-675945d8ea78")
+	)
+	(polyline
+		(pts
+			(xy 100.076 136.144) (xy 111.506 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76e8bac9-ec84-4cf2-b3d6-505496d4a686")
+	)
+	(polyline
+		(pts
+			(xy 229.616 120.904) (xy 239.776 120.904)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0e7b2af-429f-444e-a931-8a90fbffb94d")
+	)
+	(polyline
+		(pts
+			(xy 213.106 106.934) (xy 213.106 103.124)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c11ca8a8-019a-4807-af6d-f7bd3df66505")
+	)
+	(polyline
+		(pts
+			(xy 171.196 58.674) (xy 171.196 68.834)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9227576-68d9-4641-a49a-97e745961914")
+	)
+	(polyline
+		(pts
+			(xy 229.616 82.804) (xy 239.776 82.804)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee0771a8-44c4-4e5b-ad59-b185419b7487")
+	)
+	(sheet
+		(at 104.14 166.37)
+		(size 64.77 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 194 194 194 1.0000)
+		)
+		(uuid "233fe26c-6c90-4f64-b10a-1d1f42458446")
+		(property "Sheetname" "autofire"
+			(at 104.14 165.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "autofire.kicad_sch"
+			(at 104.14 173.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esplay"
+				(path "/a42772e2-b632-4444-a8ab-54d2124cffc5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 166.37)
+		(size 68.58 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "5ad0d6f3-f620-4ee5-82bc-65bc586ed5b8")
+		(property "Sheetname" "MCU"
+			(at 29.21 165.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 29.21 173.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esplay"
+				(path "/a42772e2-b632-4444-a8ab-54d2124cffc5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 181.61)
+		(size 68.58 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "898305a6-d09a-4ae9-8500-eed4041f231c")
+		(property "Sheetname" "audio"
+			(at 29.21 180.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "audio.kicad_sch"
+			(at 29.21 188.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esplay"
+				(path "/a42772e2-b632-4444-a8ab-54d2124cffc5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
