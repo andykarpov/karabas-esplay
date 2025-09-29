@@ -503,9 +503,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "esplay.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "esplay.wrl"
     },
     "page_layout_descr_file": ""
   },
