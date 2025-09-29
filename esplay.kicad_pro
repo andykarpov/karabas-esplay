@@ -52,7 +52,20 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|109600000|47400000|67d09cdc-6afd-4287-9298-b08ce26bed10|1f87cf43-4af3-4150-9351-cddf7459b2c5|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|109600000|51400000|67d09cdc-6afd-4287-9298-b08ce26bed10|413efe19-aca4-40e8-bb1c-337418ffda3a|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|138475000|78825000|67d09cdc-6afd-4287-9298-b08ce26bed10|618b46e7-adcd-4d42-b040-c92a3f3814a2|B.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
