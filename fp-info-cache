@@ -1,4 +1,4 @@
-26461029330235052
+26462788507078478
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105019,6 +105019,13 @@ tactile push button, 6x6mm e.g. PTS645xx series, height=9.5mm
 tact sw push 6mm smd
 0
 4
+2
+footprints
+SW_Push_1TS009_combined1
+tactile push button, 6x6mm, height=5mm, 12V 50mA, https://datasheet.lcsc.com/lcsc/1811151231_HYP--Hongyuan-Precision-1TS009A-1800-5000-CT_C319409.pdf
+tact sw push 6mm silicone rubber
+0
+6
 2
 footprints
 SW_SPST_PTS810_handsoldering

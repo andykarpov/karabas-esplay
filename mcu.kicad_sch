@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Karabas Esplay")
-		(date "2025-09-28")
-		(rev "A")
+		(date "2025-09-30")
+		(rev "A2")
 		(company "Andy Karpov production")
 	)
 	(lib_symbols
@@ -15076,7 +15076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 214.63 99.06 0)
 			(effects
 				(font
@@ -15843,7 +15843,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 167.64 99.06 0)
 			(effects
 				(font
@@ -16047,7 +16047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 149.86 99.06 0)
 			(effects
 				(font
@@ -16321,7 +16321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 158.75 99.06 0)
 			(effects
 				(font
@@ -17440,7 +17440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 140.97 99.06 0)
 			(effects
 				(font
@@ -17741,7 +17741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 132.08 99.06 0)
 			(effects
 				(font
@@ -18157,7 +18157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 194.31 99.06 0)
 			(effects
 				(font
@@ -18295,7 +18295,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 176.53 99.06 0)
 			(effects
 				(font
@@ -18978,7 +18978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 185.42 99.06 0)
 			(effects
 				(font

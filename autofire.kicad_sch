@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Karabas Esplay")
-		(date "2025-09-28")
-		(rev "A")
+		(date "2025-09-30")
+		(rev "A2")
 		(company "Andy Karpov production")
 	)
 	(lib_symbols
@@ -2214,7 +2214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 128.27 59.69 0)
 			(effects
 				(font
@@ -2510,7 +2510,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "footprints:SW_Push_1TS009_combined1"
 			(at 57.15 59.69 0)
 			(effects
 				(font
