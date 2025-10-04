@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Karabas Esplay")
-		(date "2025-09-30")
-		(rev "A2")
+		(date "2025-10-04")
+		(rev "A3")
 		(company "Andy Karpov production")
 	)
 	(lib_symbols)

@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Karabas Esplay")
-		(date "2025-09-30")
-		(rev "A2")
+		(date "2025-10-04")
+		(rev "A3")
 		(company "Andy Karpov production")
 	)
 	(lib_symbols
@@ -3749,7 +3749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-16_4.4x5.2mm_P0.65mm"
+		(property "Footprint" "footprints:SSOP-16_4.4x5.2mm_P0.65mm-extended"
 			(at 97.79 76.2 0)
 			(effects
 				(font
